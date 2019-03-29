@@ -1,6 +1,6 @@
 # TodoMVVM
 
-This is a sample app that is build according to the six core tenents of modern MVVM as heard on the Fragmented Podcast
+This is a sample app that is build according to the six core tenets of modern MVVM as heard on the Fragmented Podcast
 
 1. Screens are driven by a single viewmodel. They have a one to one relationship. 
 2. Screen listen to a an observable that emits a viewstate.
